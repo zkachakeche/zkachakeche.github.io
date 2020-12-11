@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <title></title>
+    <link>zkachakeche.github.io/</link>
+      <atom:link href="zkachakeche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <url>/zkachakeche.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title></title>
+      <link>zkachakeche.github.io/</link>
     </image>
+    
+    <item>
+      <title>Adjective ordering in Arabic: Post-nominal structure and subjectivity-based preferences</title>
+      <link>zkachakeche.github.io/publication/kachakeche-2020-adjective/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>zkachakeche.github.io/publication/kachakeche-2020-adjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental semantic restriction and subjectivity-based adjective ordering</title>
+      <link>zkachakeche.github.io/publication/scontras-2020-incremental/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>zkachakeche.github.io/publication/scontras-2020-incremental/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
